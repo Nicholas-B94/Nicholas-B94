@@ -4,17 +4,27 @@
     </h1>
 </div>
 
-<h1>Hi, I'm Nick! <br/><a href="https://github.com/Nicholas-B94"></a> <a href="https://www.linkedin.com/in/nicholasbrockmanjr/">Information Technology Professional</a>
+<h1>I'm Nick! <br/><a href="https://github.com/Nicholas-B94"></a> <a href="https://www.linkedin.com/in/nicholasbrockmanjr/">Information Technology Professional</a>
 
-<h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>PowerShell</b>
- -  [Active Directory Lab]
- -  [Active Directory Bulk User Creation]
+<div align="center">
+    <h2> About Me</h2>
+    <p>I'm a Technical support worker working to devolop my skills managing systems and infastructure. I created this profile to stand out from other job canidates to provide more insight on my skill set and gain a better understanding of the industry.</p>
+</div>
+
+
+<h1> Development Projects:</h1> 
+
+  <h2>PowerShell</h2>
+
+ -  Active Directory Lab
+ -  Active Directory Bulk User Creation
+ -  Active Directory Bulk User Add
+ -  Active Directory Bulk User Remove
    
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2> Connect with me:</h2>
 
 [<img align="left" alt="nicholasbrockmanjr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
